@@ -47,6 +47,12 @@ O projeto **Python Academy** deve conter:
 
 ## Desenvolvido por
 
-**Felipe Bezerra de Almeida**
+**Felipe Bezerra de Almeida 2102617**
+**Lia Stefani Miranda Machado Trevisan 2418304**
+---
+
+## Ods
+
+**Educação de qualidade**
 
 ---
