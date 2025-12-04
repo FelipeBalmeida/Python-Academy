@@ -53,6 +53,6 @@ O projeto **Python Academy** deve conter:
 
 ## Ods
 
-**Educação de qualidade**
+**Educação de qualidade.**
 
 ---
